@@ -1,0 +1,17 @@
+---
+layout: post
+title: Day Zero&#58; Inertia
+tags: motivation
+---
+
+Inertia is, broadly defined, the tendency to remain unchanged. This is a pretty basic fact, both in terms of general knowledge and as far as the laws of physics are concerned (quantum mechanics and relativistic effects not withstanding, of course). 
+In layman's terms, more or less, an object at rest tends to stay at rest unless acted on by an outside force, and an object in motion tends to stay in motion. It's true for cannonballs, feathers, stars, and people. (And pretty much everything else.) 
+
+Moreover, I've noticed that as of late it's also been a recurring theme in my decision-making process. I guess, more accurately, it has been for quite a while. Making changes, taking risks - it takes energy, time, money, or some other resource (at this point, these are all largely fungible). And, broadly speaking, I haven't really alloted enough of the resources I have for myself. As you may be able to guess, this isn't great for my sense of accomplishment, nor my ego. It's especially not-great when it comes to my productivity. From there, another realization - I really, really don't like being unproductive. Like, on an existential level. Might not be obvious, I know, but bear with me here.
+
+So, then. How do I overcome this habit of denying self-investment? I don't think I have the inherent frenetic momentum of the walking-self-help-book types. A lot of that probably stems from personal ideology, but when inundated by a culture that by and large equates intangible worth with production and/or accumulation of wealth, it's hard not to let that seep into one's subconscious and color one's self-assessment.
+
+This isn't to shift blame away from my own self-divestment, but it is helpful in examining why I let myself stay in the ruts I've made. I've managed to be just comfortable enough to not _need_ to change direction (or, more to the point, I've been given what I need to be comfortable). I'm aware that this is an enviable position for much of the world, and I'm absolutely aware of my blessings in life, but that awareness also means that I'm not being appreciative of my luck in not doing more.
+That means I need to deliver on the implicit promises I've made - promises to myself, promises to my friends and family, to my employer and to the rest of the world. I spent four years getting a bachelor's degree at a hefty cost to my family and myself. I've devoted untold hours to 'curating tastes' and working out articulate opinions about them. I've started so many endeavors and taken up so many hobbies and projects that I don't even remember what I've started. Suffice to say I've talked a good game -- now it's time to deliver. I want to give back, to give more, and to invest in myself so I can better invest in others.
+
+So here's "Day Zero". The turning point. But really this time. March 11, 2016. Six-plus hours of turning my self-reflection into real action. Logged in ink in my Moleskine. I'll be on here, I'll be elsewhere, I'll be indoors and outdoors and online and in my own head and outside the observable universe, but most importantly I won't be where I was before. And that, I think, is the key. 
