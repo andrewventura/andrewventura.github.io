@@ -9,7 +9,8 @@
 title: Andrew Ventura
 email: 
 description: > # this means to ignore newlines until "baseurl:"
-  Basically a Snapchat account that's been given access to the physical world, like Hugo Weaving in the first Matrix movie.
+  A Snapchat account that gained self-awareness and access to the physical world, sorta like Hugo Weaving in the first Matrix movie.
+  
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://www.andrewventura.com" # the base hostname & protocol for your site
 twitter_username: andrewventura
