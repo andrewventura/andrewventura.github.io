@@ -19,7 +19,6 @@ _I'll also update this once I have a chance to write a blurb when I'm not at wor
 * Wild Nothing - _Life of Pause_
 * Pinegrove - _Cardinal_
 * DIIV - _Is the Is Are_
-* Savages - _Adore Life_
 
 
 And a few that I haven't spent enough time with but would like to:
@@ -27,5 +26,4 @@ And a few that I haven't spent enough time with but would like to:
 * Ty Segall - _Emotional Mugger_
 * The Body - _No One Deserves Happiness_ and _One Day You Will Ache Like I Ache_ (with Full of Hell)
 * Boris with Merzbow - _Gensho_
-
-
+* Savages - _Adore Life_
