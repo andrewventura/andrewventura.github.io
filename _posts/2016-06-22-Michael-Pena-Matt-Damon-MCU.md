@@ -3,7 +3,7 @@ title: Michael Peña Appreciation Blog
 layout: post
 ---
 
-Closed up my vacation today. Back on the airplane, blogging. Incidentally, just watched Ant-Man again, and yeah Paul Rudd buoys the film and the writing and style are top-notch, but even after watching it four or so times, Michael Peña steals the show every time his enormous cheeser fills the frame. The final scene kills me every time (especially having caught the references to a "---- Rothko" and Luis' preference for neocubism). On to the Martian now with about three hours left.
+Closed up my vacation today. Back on the airplane, blogging. Incidentally, just watched Ant-Man again, and yeah Paul Rudd buoys the film and the writing and style are top-notch, but even after watching it four or so times, Michael Peña steals the show every time his enormous cheeser fills the frame. The final scene kills me every time (especially having caught the references to a "sublime" Rothko and Luis' preference for neocubism). On to the Martian now with about three hours left.
 
 Whoa! (this blog is _live_!) Michael Peña is in this one too. And Sebastian Stan? Calling it now - The Martian is an alternate reality for the MCU. Matt Damon confirmed for Adam Warlock? (_this cast is absurdly stacked btw_)
 
