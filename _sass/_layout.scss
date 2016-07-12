@@ -207,14 +207,44 @@
     font-size: 42px;
     letter-spacing: -1px;
     line-height: 1;
+    font-weight: 800;
+    font-family: $head-font-family;
 
     @include media-query($on-laptop) {
         font-size: 36px;
     }
 }
 
-.post-content {
+.featured-image {
     margin-bottom: $spacing-unit;
+
+    .featured-img-credit {
+        color: $grey-color;
+        font-size: small;
+        font-style: italic;
+    }
+
+}
+
+.post-content {
+    margin-bottom: $spacing-unit / 2;
+    position: relative;
+
+    .kicker {
+        font-size: 24px;
+        font-family: $serif-font;
+        color: $grey-color;
+        font-style: italic;
+        
+        + p:first-letter {
+            vertical-align: text-top;
+            font-size: 200%;
+            font-family: $head-font-family;
+            padding: 0 10px 0 0;
+            margin-top: -4px;
+            float: left;
+        }
+    }
 
     h2 {
         font-size: 32px;

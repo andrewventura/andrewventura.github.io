@@ -83,6 +83,8 @@ li {
  */
 h1, h2, h3, h4, h5, h6 {
     font-weight: $base-font-weight;
+    font-family: $head-font-family;
+    line-height: 1.5em;
 }
 
 
@@ -93,6 +95,7 @@ h1, h2, h3, h4, h5, h6 {
 a {
     color: $brand-color;
     text-decoration: none;
+    font-weight: bold;
 
     &:visited {
         color: darken($brand-color, 15%);
@@ -101,6 +104,7 @@ a {
     &:hover {
         color: $text-color;
         text-decoration: underline;
+        background: $brand-color;
     }
 }
 
