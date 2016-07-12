@@ -13,7 +13,7 @@ In any case - I've read the first chapter of this book, and so far Matt Damon (w
 
 Jumping around, I'm slightly bummed that I couldn't head to Boston with Ian and Mike, but I'm also glad that that means I won't need to purchase new legs - having averaged over 22,000 steps a day (roughly estimating?) really isn't great for the whole having-sufficient-cartilage thing.
 
-Wait! Technical mistake in th emovie!! Mark Watney, at roughly 38:37 into the movie (I think the play timer counted the pre-movie ad as part of the same runtime so give or take a minute or so), is shown using what looks like a stock GoPro Hero 3 (maybe 4? On the one hand, it's the near future, so it could be a 7 or 8 or whatever, but on the other hand, it's also owned by NASA, who Congress loves to outfit with old and/or cheap nonessential equipment). The angle depicted in his mission recording is far narrower than the Hero's ultrawide angle. It's not the right camera! My suspension of disbelief is, well, suspended (not really).
+Wait! Technical mistake in the movie!! Mark Watney, at roughly 38:37 into the movie (I think the play timer counted the pre-movie ad as part of the same runtime so give or take a minute or so), is shown using what looks like a stock GoPro Hero 3 (maybe 4? On the one hand, it's the near future, so it could be a 7 or 8 or whatever, but on the other hand, it's also owned by NASA, who Congress loves to outfit with old and/or cheap nonessential equipment). The angle depicted in his mission recording is far narrower than the Hero's ultrawide angle. It's not the right camera! My suspension of disbelief is, well, suspended (not really).
 
 WHAT? SEAN BEAN? Who the hell approved this budget?
 
