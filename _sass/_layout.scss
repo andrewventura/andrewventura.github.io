@@ -173,6 +173,8 @@
 
 .page-heading {
     font-size: 20px;
+    font-weight: bold;
+    text-transform: uppercase;
 }
 
 .post-list {
@@ -180,7 +182,13 @@
     list-style: none;
 
     > li {
-        margin-bottom: $spacing-unit;
+        margin-bottom: $spacing-unit / 2;
+        &:last-of-type {
+            margin-bottom: $spacing-unit
+        }
+        > h2 {
+            margin-bottom: 5px;
+        }
     }
 }
 
@@ -192,6 +200,16 @@
 .post-link {
     display: block;
     font-size: 24px;
+
+}
+
+.see-all-posts {
+    font-family: $head-font-family;
+}
+
+.rss-subscribe {
+    font-size: 80%;
+    color: #777;
 }
 
 
@@ -206,13 +224,18 @@
 .post-title {
     font-size: 42px;
     letter-spacing: -1px;
-    line-height: 1;
+    line-height: 1.15;
     font-weight: 800;
     font-family: $head-font-family;
 
     @include media-query($on-laptop) {
         font-size: 36px;
     }
+}
+
+.post-subtitle {
+    font-size: 18px;
+    font-weight: 300;
 }
 
 .featured-image {
@@ -269,4 +292,45 @@
             font-size: 18px;
         }
     }
+}
+
+.pull-quote-left {
+    text-transform: uppercase;
+    color: $brand-color;
+    font-size: 24px;
+    float: left;
+    width: 360px;
+    margin: 10px 20px 10px -90px;
+    font-family: $head-font-family;
+    border-bottom: 4px solid $brand-color;
+
+    > p {
+        margin-bottom: 10px;
+    }
+}
+
+.pull-quote-right {
+    text-transform: uppercase;
+    color: $brand-color;
+    font-size: 24px;
+    float: right;
+    width: 360px;
+    margin: 10px -120px 10px 20px;
+    font-family: $head-font-family;
+    border-bottom: 4px solid $brand-color;
+
+    > p {
+        margin-bottom: 10px;
+    }
+}
+
+.post-link {
+    display: inline;
+}
+
+.post-summary {
+    font-size: 16px;
+    line-height: .8em;
+    color: $grey-color-dark;
+    font-style: italic;
 }

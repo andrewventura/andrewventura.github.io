@@ -9,7 +9,7 @@ image:
   author: Alex Hanson
   authurl: https://www.flickr.com/photos/ajhanson
   lic: CC/BY
-kicker: At yet another pivotal political moment, the Democratic Party pays lip service to populist currents and reinforces the status quo at its own peril.
+summary: At yet another pivotal political moment, the Democratic Party pays lip service to populist currents and reinforces the status quo at its own peril.
 published: false
 ---
 

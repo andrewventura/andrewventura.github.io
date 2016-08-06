@@ -2,6 +2,7 @@
 layout: post
 title: Albums of the year so far, March Edition
 category: stockpile
+summary:
 ---
 
 We're nearly a quarter done with the year, which means that I have to make a list, or something. Here's what's been spinning that features a nice "2016" next to a © somewhere on the packaging - or on the streaming page on whatever streaming service I'm still getting a free trial from.
