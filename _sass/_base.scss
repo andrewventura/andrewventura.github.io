@@ -54,10 +54,14 @@ img {
  */
 figure > img {
     display: block;
+    margin: 0 auto;
 }
 
 figcaption {
     font-size: $small-font-size;
+    font-family: $serif-font;
+    font-style: italic;
+    color: $grey-color;
 }
 
 

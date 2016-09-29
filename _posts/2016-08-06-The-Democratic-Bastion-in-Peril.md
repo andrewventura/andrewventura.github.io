@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Democratic Bastion in Peril
+title: The Imperiled Democratic Bastion
 subtitle: How Trump can bluster his way into ruining <i>everything</i>
 tags: Politics
 summary: Trump is horrible — we know. But "Busters" need to remember that this (and every) election is bigger than one man, one office, or one branch of government.
