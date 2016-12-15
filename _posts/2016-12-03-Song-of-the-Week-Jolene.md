@@ -3,6 +3,7 @@ layout: post
 title: Song of the Week, week 48 - "Jolene"
 category: SOTW
 tags: Dolly Parton
+kicker: Introducing a new feature - Song of the Week. Encapsulating seven days (more or less) in a single song.
 ---
 
 Been on a bit of a different kick lately. On the evenings when I decide to deactivate the grey matter and mindlessly massacre digital peons online, I usually like to throw on a record or playlist I've been meaning to listen to. Appreciation through ambient osmosis, I suppose.
