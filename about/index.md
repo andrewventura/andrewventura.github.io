@@ -13,6 +13,7 @@ Unrelated to posting: My day job requires transmuting abstract concepts into foo
 Drop me a line - 
 
 [twitter @andrewjventura][1]
+
 [instagram @andrew_jv][2]
 
 
