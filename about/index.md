@@ -4,10 +4,17 @@ title: About
 permalink: /about/
 ---
 
-My name is Andrew and I do "something in marketing" at a nonprofit. I'm a lefty feminist who wonders why the first thing people say about themselves is often related to their job and also why identity politics often don't help me identify things.
+Hey, my name's Andrew, and this is my website. I usually just post on Twitter but occasionally that just doesn't 'feel right', so I post here.
 
-I like Dragonball, writing words with lots of ascenders and descenders, cooly disaffected blog posts, twinkly emo, taking moody photos in urban places, and acronyms, among other things. Fairly certain I exist in the physical world, but I can never tell. I like to pet dogs and touch soft blankets. I have a few pictures up in my cubicle, which is neat. People often say nice things about me. Normally when someone writes something like that on their own website they have a link to the things that other people write, but I don't really have many of those handy so you'll just have to trust me on that.
+Love to post about music, baseball, politics, and occasionally some other stuff. And take requests!
 
-Oh, also, if you've got a pitch for your next beautiful pet project, I'd love to hear about it (especially if it's a project about pets), so [email me, punk][1]{:target="_blank"}.
+Unrelated to posting: My day job requires transmuting abstract concepts into food. My night job requires the opposite. When not doing either of those, you can catch me exploring local (sub)urban spots, making noise behind my drum kit, or digging into medieval history podcasts. 
 
-[1]: mailto: andrew.ventura91@gmail.com
+Drop me a line - 
+
+[twitter @andrewjventura][1]
+[instagram @andrew_jv][2]
+
+
+[1]:https://www.twitter.com/andrewjventura
+[2]:https://www.instagram.com/andrew_jv
