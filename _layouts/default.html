@@ -8,9 +8,31 @@
     {% include header.html %}
 
     <div class="page-content">
+
       <div class="wrapper">
-            {{ content }}
+        
+        {{ content }}
+        
+        <div class="leftnav">
+          <div class="hero-nav">
+            <a href="/about" id="about-block">
+              ANDREW
+            </a>
+          </div>
+          <div class="hero-nav">
+            <a href="/blog" id="blog-block">
+              BLOG
+            </a>
+          </div>
+          <div class="hero-nav">
+            <a href="/contact" id="contact-block">
+              CONTACT
+            </a>
+          </div>
+        </div><!-- /.leftnav -->
+
       </div>
+
     </div>
 
     {% include footer.html %}

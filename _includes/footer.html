@@ -28,6 +28,11 @@
       <div class="footer-col footer-col-3">
         <p>{{ site.description }}</p>
       </div>
+      <div class="col-sm-12">
+        {% for quote in site.data.quotegen limit:1 %}
+          <span><small><em>{{ quote.quote }}</em></small></span>
+        {% endfor %}
+      </div>
     </div>
 
   </div>

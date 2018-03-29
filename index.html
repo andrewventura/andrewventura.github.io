@@ -2,19 +2,20 @@
 layout: default
 ---
 <div class="row">
-  <div class="col-md-8">
+
+  <div class="col-md-12">
 
       <h1 class="page-heading">Latest Posts</h1>
 
       <ul class="post-list">
-        {% for post in site.posts limit:3 %}
+        {% for post in site.posts limit:4 %}
           <li>
             <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-
             <h2>
-              <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+            <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
             </h2>
-            <span class="post-summary">{{ post.summary }}</span>
+            <p><span class="post-summary">{{ post.summary }}</span></p>
+            <a class ="read-more-link" href="{{ post.url | prepend: site.baseurl }}">Read more &gt;</a>
           </li>
         {% endfor %}
       </ul>
@@ -23,6 +24,5 @@ layout: default
       <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}" title="wait are there people that still use this just get twitter already">via RSS</a></p>
 
     </div>
-  <div class="col-md-4">
-  </div>
+
 </div>
