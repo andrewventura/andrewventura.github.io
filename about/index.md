@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: Hey What's Up, Welcome To My About Me Page
 permalink: /about/
 ---
 

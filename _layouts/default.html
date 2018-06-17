@@ -15,20 +15,27 @@
         
         <div class="leftnav">
           <div class="hero-nav">
-            <a href="/about" id="about-block">
-              ANDREW
+          {% for link in site.data.navigation %}
+            <a href="/{{ link.url }}" class="{% if page.url contains link.url %} active {% endif %}">
+              {{ link.label | upcase }}
             </a>
+          {% endfor %}
           </div>
-          <div class="hero-nav">
+          <!--<div class="hero-nav">
             <a href="/blog" id="blog-block">
               BLOG
             </a>
           </div>
           <div class="hero-nav">
-            <a href="/contact" id="contact-block">
-              CONTACT
+            <a href="/work" id="photos-block">
+              WORK
             </a>
           </div>
+          <div class="hero-nav">
+            <a href="/photos" id="photos-block">
+              PHOTOS
+            </a>
+          </div>-->
         </div><!-- /.leftnav -->
 
       </div>
@@ -38,7 +45,7 @@
     {% include footer.html %}
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js" integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS" crossorigin="anonymous"></script>
-  {% include analytics.html %}
+  {% include js.html %}
   </body>
 
 </html>

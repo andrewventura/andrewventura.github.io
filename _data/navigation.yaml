@@ -1,6 +1,8 @@
+- label: Andrew
+  url: about
 - label: Blog
-  url: /blog/
-- label: About
-  url: /about/
-# - label: Contact
-#   url: /contact/
+  url: blog
+- label: Photos
+  url: photos
+- label: Work
+  url: work

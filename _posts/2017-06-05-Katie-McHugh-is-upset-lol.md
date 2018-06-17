@@ -2,6 +2,7 @@
 title: How To Get Fired From Breitbart For Being Too Racist (featuring terrifyingly hilarious tone-deafness)
 layout: post
 categories: lol
+summary: Self-awareness is for the PC crowd!!
 ---
 
 So let's get this straight: sometime over the weekend, a Breitbart writer was fired for being _too_ racist (I'll let you decide how much time you need to process that sentence. Take your time, I'll be here). The tweet in question:
