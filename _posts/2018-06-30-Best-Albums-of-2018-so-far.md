@@ -40,10 +40,11 @@ I was pleasantly surprised to see these guys drop a record this year, especially
 
 Here are a few more that I've enjoyed this year:
 
+- **Jon Hopkins** - _Singularity_
 - **Standards** - _Standards_
-
+- **Culture Abuse** - _Bay Dreams   _
 - **Animal Flag** - _Void Ripper_
-
 - **Kendrick Lamar** (+ others) - _Black Panther_
-
 - **Harm's Way** - _Posthuman_
+- **Vein** - _Errorzone_
+- **mouse on the keys** - _tres_
