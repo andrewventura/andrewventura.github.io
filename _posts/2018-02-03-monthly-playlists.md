@@ -5,9 +5,7 @@ category: tunes
 summary: Well, almost monthly.
 ---
 
-<iframe src="https://open.spotify.com/embed/user/attachedmeans/playlist/3biVFerz1T2Bwe53yMXra9" width="100%" height="320" frameborder="0" allowtransparency="true"></iframe>
-
----
+<iframe src="https://open.spotify.com/embed/user/attachedmeans/playlist/3biVFerz1T2Bwe53yMXra9" width="100%" height="320" frameborder="0" allowtransparency="true" style="margin:10px 0;"></iframe>
 
 Last year, in what I suppose was an unconscious effort to mimic the web's unyielding drive to generate impossibly huge amounts of data, I began making monthly playlists. Originally, I was just trying to consolidate the new music I found in a given month (to make the year-end list-making process easier, I think), or jot down what I had on repeat or stuck in my head in one place. Once the playlists were up, though, and once I started adding whatever fit a particular mood I was in, they sort of became a map of certain memories, feelings, or themes, but expressed in earworms.
 
@@ -15,9 +13,7 @@ Like, there was the time I was driving a bunch for work and got really into (ear
 
 January was mostly new music - a decidedly "new years resolution" vibe. February was two tracks, one off Sinai Vessel's (excellent) "Brokenlegged", the other a decade-old shoegaze track, because I just like shoegaze. Then the playlists stopped for a few months when I had a rough patch in life to work through. The juice was still flowing, but I didn't take time to put it into cohesive lists...this may have been for the best.
 
-<iframe src="https://open.spotify.com/embed/user/attachedmeans/playlist/2EFuLZnWiGG3QlYZ8iONmS" width="100%" height="220" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
-
----
+<iframe src="https://open.spotify.com/embed/user/attachedmeans/playlist/2EFuLZnWiGG3QlYZ8iONmS" width="100%" height="220" frameborder="0" allowtransparency="true" allow="encrypted-media" style="margin:10px 0;"></iframe>
 
 In any case, I got back to it in early September, assembling a playlist that actually ended up working really well for me after the month had ended, even as I was compiling others for subsequent months. It's a surprisingly coherent mix of what was new at the time (Brand New, to be specific) and what went along with my month. A few highlights - I saw Brand New right after Science Fiction dropped (and before the Jesse Lacey shit dropped), which was dope; I love The Glow, Pt. 2 a lot; and sludge/stoner/doom is really, really good for long night drives through the desert. (Or chapparal, whatever. I was going to Riverside. Close enough.)
 

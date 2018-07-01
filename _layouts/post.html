@@ -7,9 +7,9 @@ layout: default
         {% if page.subtitle %}
         <h2 class="post-subtitle">{{ page.subtitle }}</h2>
         {% endif %}
-        <p class="post-meta"><time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%b %-d, %Y" }}</time>{% if page.author %} • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span>{% endif %} {% if page.category %} | <span itemprop="category">Posted in 
+        <p class="post-meta"><time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%b %-d, %Y" }}</time>{% if page.category %} | <span itemprop="category">Posted in 
           {% for category in page.category %}
-          {{page.category}} 
+          <a href="/category/{{ page.category }}">{{page.category}}</a>
           {% endfor %}</span>{% endif %}</p>
       </header>
       {% if page.image %}
