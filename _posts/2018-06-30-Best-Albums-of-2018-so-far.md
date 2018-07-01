@@ -3,7 +3,7 @@ title: Best Music of 2018 (so far)
 layout: post
 category: stockpile
 summary: All Hail King Killmonger
-image: pbtt-wfl.jpg
+twitter-image: pbtt-wfl.jpg
 ---
 
 Feeling good about this one, yall. It's June 30th. We're exactly halfway through the year (going by months, at least). That means I can talk about MY FAVORITE RECORDS OF THE YEAR, SO FAR, HALFWAY, and be totally on point. Usually I do these at less satisfying points in the year - this is a nice, even split.
