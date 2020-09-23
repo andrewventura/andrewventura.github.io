@@ -1,27 +1,71 @@
 <html>
 <head>
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
 	<style type="text/css">
 		@keyframes rotate {
 			0% {transform:rotate(0);}
 			50% {transform:rotate(180deg);}
 			100% {transform:rotate(359deg);}
 		}
-
-		/* img {
-			-webkit-transition: 4s linear;
-			-moz-transition: 4s linear;
-			-o-transition: 4s linear;
-			transition: 4s linear;
-		}; */
 		img {
 			animation-name: rotate;
 			animation-duration: 4s;
 			animation-timing-function: linear;
 			animation-iteration-count: infinite;
 		}
+		.copy {
+			font-family:Lucida Console, Lucida Grande, Courier, monospace;
+			z-index:99999999999;
+			position: fixed;
+			font-size: 20pt;
+			padding: 5px 15px;
+			left: 360px;
+			top: 360px;
+			background-color: #888;
+		}
+		.copy:active {
+			background-color: #555;
+			border: 1px 1px;
+			color: #eee;
+		}
 	</style>
+	<script type="text/javascript">
+	$(document).ready(function(){
+		$(".copy").click(function(){
+			console.log("clicked");
+			var i = $("img").length;
+			var seed = Math.floor(Math.random() * 4);
+			var dim = 0;
+			switch (seed) {
+				case 0:
+					dim = 160;
+					break;
+				case 1:
+					dim = 320;
+					break;
+				case 2:
+					dim = 480;
+					break;
+				case 3:
+					dim = 640;
+					break;
+				default:
+					dim = 80;
+			};
+			var topM = dim * Math.random() * (Math.random()*2);
+			var leftM = dim * Math.random() * (Math.random()*3.4);
+			$("#orig").clone().attr({
+				id: "clone"+i,
+				height: dim,
+				width: dim,
+			}).css({"top":topM,"left":leftM}).insertAfter("img:last");
+		})
+	});
+</script>
 </head>
 <body>
-	<img src="img/img.svg" width="640" height="640">
+	<img src="img/img.svg" id="orig" width="640" height="640" style="position:fixed;">
+	<button class="copy">M O A R</button>
 </body>
-</html> 
+
+</html>
