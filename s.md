@@ -1,7 +1,9 @@
-<html>
-<head>
-	<style type="text/css">
-		@keyframes rotate {
+---
+layout: post
+title: The Cool S
+permalink: /s/
+---
+	<img src="img/img.svg" width="640" height="640" style="@keyframes rotate {
 			0% {transform:rotate(0);}
 			50% {transform:rotate(180deg);}
 			100% {transform:rotate(359deg);}
@@ -18,10 +20,4 @@
 			animation-duration: 4s;
 			animation-timing-function: linear;
 			animation-iteration-count: infinite;
-		}
-	</style>
-</head>
-<body>
-	<img src="img/img.svg" width="640" height="640">
-</body>
-</html>
+		}">
