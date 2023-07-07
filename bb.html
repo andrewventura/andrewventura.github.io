@@ -13,14 +13,16 @@
 	</style>
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/html2canvas/0.4.1/html2canvas.min.js"></script>
 	<script src="https://superal.github.io/canvas2image/canvas2image.js"></script>
-	<script type="text/javascript">document.querySelector('button').addEventListener('click', function() {
+	<script type="text/javascript">window.onload=function(){
+		document.querySelector('button').addEventListener('click', function() {
         html2canvas(document.querySelector('body'), {
             onrendered: function(canvas) {
                 // document.body.appendChild(canvas);
               return Canvas2Image.saveAsPNG(canvas);
             }
         });
-    });</script>
+    })
+};</script>
 </head>
 <body>
 <div id="box">
