@@ -13,7 +13,7 @@
 	</style>
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/html2canvas/0.4.1/html2canvas.min.js" />
 	<script src="https://superal.github.io/canvas2image/canvas2image.js" />
-	<script type="text/javascript">document.querySelector('#cap').addEventListener('click', function() {
+	<script type="text/javascript">document.querySelector('button').addEventListener('click', function() {
         html2canvas(document.querySelector('body'), {
             onrendered: function(canvas) {
                 // document.body.appendChild(canvas);
@@ -41,6 +41,10 @@
 		</div>
 	</div>
 </div>
-<div class="row align-items-center"><button id="cap" onclick="html2canvas()">capit</button></div>
+<div class="row align-items-center">
+			<div class="col"></div>
+			<div class="col"><button id="cap">capit</button></div></div>
+			<div class="col"><img src="img/aw.png" style="max-height:100px;" /></div>
+	
 </body>
 </html>
