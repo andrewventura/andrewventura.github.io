@@ -12,7 +12,7 @@
 		@container { font-size: }
 	</style>
 	<script type="text/javascript" src="html2canvas.min.js" />
-	<script type="text/javascript">html2canvas(document.querySelector("#cap")).then(canvas => {const base64image = canvas.toDataURL("image/png"); window.location.href=base64image;});	</script>
+	<script type="text/javascript">html2canvas(document.body).then(function(canvas) => {const base64image = canvas.toDataURL("image/png"); window.location.href=base64image;});	</script>
 </head>
 <body>
 	<div class="container" id="hoolda">
