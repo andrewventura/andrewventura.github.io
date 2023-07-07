@@ -11,8 +11,16 @@
 		hr { width: 50%; border-top:3px solid; opacity:1;}
 		@container { font-size: }
 	</style>
-	<script type="text/javascript" src="html2canvas.min.js" />
-	<script type="text/javascript">html2canvas(document.body).then(function(canvas) => {const base64image = canvas.toDataURL("image/png"); window.location.href=base64image;});	</script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/html2canvas/0.4.1/html2canvas.min.js" />
+	<script src="https://superal.github.io/canvas2image/canvas2image.js" />
+	<script type="text/javascript">document.querySelector('#cap').addEventListener('click', function() {
+        html2canvas(document.querySelector('body'), {
+            onrendered: function(canvas) {
+                // document.body.appendChild(canvas);
+              return Canvas2Image.saveAsPNG(canvas);
+            }
+        });
+    });</script>
 </head>
 <body>
 	<div class="container" id="hoolda">
