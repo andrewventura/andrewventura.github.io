@@ -28,11 +28,11 @@
 		@font-face { font-family: "bb"; src: url(bb.ttf) format("truetype") }
 		.box, .shell { display: flex; flex-direction: column; align-items: center; justify-content: center; max-width: 100%; margin: 0 auto;}
 		#sc { flex-grow: 0; background-color: #FFFFFF; width: 80% }
-		#hoolda { width: 90%; background: no-repeat center url("img/bh.png"); position: absolute; padding-left: 10px; background-size: contain; }
+		#hoolda { width: 90%; background: no-repeat center url("img/bh.png"); position: relative; padding-left: 10px; background-size: contain; }
 		textarea { wrap:off; border: 0; columns:1; text-align:center; text-transform:uppercase; line-height:1.2em; resize:none; font-family:"bb",verdana; font-size: 3em; display:block; background:none; color: #FFF; margin: 90% auto; transform: rotate(-16deg); width: 85%; height: 3.9em; padding: 5px 0 5px 20px;}
 		#an { position: absolute; margin-top: 75vh; right: 10px }
 		@media screen and (min-width: 612px) {
-			.box, .shell { display: flex; flex-direction: column; align-items: center; justify-content: center; max-width: 612px; margin: 0 auto;}
+			.box, .shell { display: flex; flex-direction: column; align-items: center; justify-content: center; max-width: 612px; max-height: 100vw; margin: 0 auto;}
 			#sc { flex-grow: 0; background-color: #FFFFFF; min-height:612px; }
 			#hoolda { height: 612px; width: 612px; background: no-repeat center url("img/bh.png"); position: absolute; padding-left: 30px; }
 			textarea { wrap:off; border: 0; columns:1; text-align:center; text-transform:uppercase; line-height:1.2em; resize:none; font-family:"bb",verdana; font-size: 3.2em; display:block; background:none; color: #FFF; margin: 200px 0 0 20px; transform: rotate(-16deg); width: 85%; height: 3.9em; padding: 5px 0 5px 20px;}
