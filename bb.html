@@ -15,7 +15,7 @@
 	<script src="https://superal.github.io/canvas2image/canvas2image.js"></script>
 	<script type="text/javascript">window.onload=function(){
 		document.querySelector('button').addEventListener('click', function() {
-        html2canvas(document.querySelector('body'), {
+        html2canvas(document.querySelector('#sc'), {
             onrendered: function(canvas) {
                 // document.body.appendChild(canvas);
               return Canvas2Image.saveAsPNG(canvas);
@@ -27,7 +27,7 @@
 <body>
 <div id="box">
 	<div class="container" style="padding-top:100px;">
-		<div class="row" >
+		<div class="row" id="sc">
 			<div class="col-6 offset-3" id="hoolda" style="height:612px;">
 				<textarea>wow!</textarea>
 			</div>
