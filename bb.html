@@ -64,4 +64,21 @@
 
 	
 </body>
+<script
+			  src="https://code.jquery.com/jquery-4.0.0.slim.min.js"
+			  integrity="sha256-8DGpv13HIm+5iDNWw1XqxgFB4mj+yOKFNb+tHBZOowc="
+			  crossorigin="anonymous"></script>
+<script type="text/javascript">
+	$.urlParam = function(name){
+    var results = new RegExp('[\?&]' + name + '=([^&#]*)').exec(window.location.href);
+    if (results==null) {
+       return null;
+    }
+    return decodeURI(results[1]) || 0;
+}
+console.log($.urlParam('msg'))
+document.getElementById("barbox").value= $.urlParam('msg');
+
+</script>
+
 </html>
